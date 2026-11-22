@@ -28,4 +28,4 @@ Follows the [Agent Skills specification](https://agentskills.io). Installs to `.
 
 MIT licensed (see [LICENSE](LICENSE)).
 
-`0.1.0` (set in `metadata.version` in each `SKILL.md`; releases are tagged `vX.Y.Z`).
+`0.1.1` (set in `metadata.version` in each `SKILL.md`; releases are tagged `vX.Y.Z`).
