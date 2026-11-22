@@ -19,3 +19,11 @@ npx skills add TheoSlater/optical-alignment-skill --skill optical-icon-alignment
 | Skill | What it does |
 | --- | --- |
 | [`optical-icon-alignment`](skills/optical-icon-alignment/SKILL.md) | Nudges icons to optical center in small px steps and reports each offset |
+
+## Compatibility
+
+Follows the [Agent Skills specification](https://agentskills.io). Installs to `.agents/skills/` (read by Codex, Cursor, and others), with a symlink for Claude Code at `.claude/skills/`.
+
+## Version
+
+`0.1.0` (set in `metadata.version` in each `SKILL.md`; releases are tagged `vX.Y.Z`).

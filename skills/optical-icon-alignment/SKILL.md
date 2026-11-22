@@ -1,6 +1,8 @@
 ---
 name: optical-icon-alignment
 description: Center icons optically, not mathematically. Use when placing, centering, or aligning icons inside buttons, badges, avatars, circles, or toolbars, or when an icon "looks off-center" even though its box is centered.
+metadata:
+  version: "0.1.0"
 ---
 
 # Optical icon alignment
